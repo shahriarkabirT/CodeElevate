@@ -5,7 +5,7 @@ git add -all - add the directory change to stage
 git add . -- add the specific directory change to stage
 git add * -- add all files change except delete
 git add link -- add specific change file
-git reset -- resets the changes of git add ]
+git reset -- resets the changes of git add 
 git commit m "message" - commit the changes
 git reset HEAD~ -- reset all commits
 git branch name -- creates a git branch of the following name
