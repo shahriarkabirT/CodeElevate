@@ -15,4 +15,5 @@ git merge name : transfer properties of name to directory
 git push origin name : transfer the folder to the online GitHub repo
 git pull : git fetch plus merge
 git fetch : fetches from github and store it to stages
-git diff : Shows the differences between the working directory and the repository.
+git diff : Show changes between the working tree and the index or a tree
+git add -p <file Name>   : select chunk of code
