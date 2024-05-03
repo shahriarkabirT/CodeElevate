@@ -18,4 +18,5 @@ git fetch : fetches from github and store it to stages
 git diff : Show changes between the working tree and the index or a tree
 git add -p <file Name>   : select chunk of code
 
-hellofsdfsafoaf
+
+git push -u origin <branch-name> : This command pushes your local branch to GitHub and sets it to track the remote branch
